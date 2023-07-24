@@ -3,5 +3,5 @@
 ### 
 
 ## Customer Data Platform Design
-
+![CDP Design](./Telco_CDP.png)
 ## Customer Single View Table
