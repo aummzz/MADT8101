@@ -3,3 +3,4 @@
 The objective is to identify a business, analyze its existing customer, and recommended new CLV Model
 
 ## First choice credit card
+![CDP Design](./First_choice-1.png)
