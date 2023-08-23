@@ -26,3 +26,4 @@ then multiply by customer Tier (from Loyalty point)
 Segment customer by CLV score and set up different marketing campaign to the customer
 if CLV score is high we can give them more benefit such as spilt payment treansaction into 12 bills instead of 3 bills.
 because customer with high CLV score mean less probability of bad debt.
+![image](Firstchoice-4.png)
