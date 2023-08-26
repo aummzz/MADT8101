@@ -1,5 +1,5 @@
 # Customer Data Platform
-[![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#) [![](https://img.shields.io/badge/-Student-blue)](#)
+[![](https://img.shields.io/badge/-Concept-green)](#) [![](https://img.shields.io/badge/-Presentation-green)](#) [![](https://img.shields.io/badge/-Student-blue)](#)
 ### My customer data platform design for Telecommunication Company including customer single view table and use case suggestion for business.
 
 ## Customer Data Platform Design
