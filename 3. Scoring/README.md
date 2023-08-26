@@ -53,5 +53,20 @@ Random dataset and split `Trainset ` and `Validateset `
 ### Confusion matric
 ![image](Churn_Metrix.png)
 
+## Deploy Model
+### Predict Churn Customer
+![image](Churn_PredictSet.jpg)
 
+### Classification
+- KMean = 4
+![image](Churn_KMeans.jpg)
 
+### Segmentation
+![image](Churn_Segmentation.png)
+
+## Action
+### Focus group
+![image](Churn_Table.png)
+
+### Marketing Plan
+![image](Churn_Action.png)
