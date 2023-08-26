@@ -10,3 +10,6 @@ I use this tools to EDA, create model, parameter tuning, and deploy
 
 ## Dataset
 ![image](Churn_dataset.jpg)
+![image](Churn_dataset_1.jpg)
+
+## EDA
