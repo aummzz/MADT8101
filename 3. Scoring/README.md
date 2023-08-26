@@ -43,6 +43,15 @@ Total deleted 1,856 rows | Remain 3,774 rows
 Random dataset and split `Trainset ` and `Validateset `
 
 - Using: `Random Forest `, `Logistic Regression `, `XGBoost `
-- Metric: `Precision `, `F1 score `
+- Metrics: `Precision `, `F1 score `
 - Best performing Model: `Random Foreset `
+![image](Churn_ModelPerformance.jpg)
+
+## Feature Improtance
+![image](Churn_FeatureImprotance.jpg)
+
+### Confusion matric
+![image](Churn_Metrix.png)
+
+
 
