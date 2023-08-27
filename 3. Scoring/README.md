@@ -1,7 +1,7 @@
 # Churn Scoring
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Dataiku-green)](#) [![](https://img.shields.io/badge/-Student-blue)](#)
 
-## Dataiku(https://www.dataiku.com/)
+## Dataiku (https://www.dataiku.com/)
 The world's leading platform for Everyday AI, systemizing the use of data for exceptional business results.
 I use this tools to EDA, create model, parameter tuning, and deploy
 
