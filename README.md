@@ -9,4 +9,5 @@ Seminar in Advanced Analytics
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Dataiku-green)](#) [![](https://img.shields.io/badge/-Student-blue)](#)
 - [x] [4.Customer Segmentation and Recommendation](https://github.com/aummzz/MADT8101/blob/main/4.%20Customer%20Segmentation%20and%20Recommendation/README.md)  
 [![](https://img.shields.io/badge/-K--Means-orange)](#) [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Student-blue)](#)
-
+- [x] [5.Voice of Customer Analytics](https://github.com/aummzz/MADT8101/blob/main/5.%20Voice%20of%20Customer%20Analytics/README.md)  
+[![](https://img.shields.io/badge/-Topic--Modeling-orange)](#) [![](https://img.shields.io/badge/-NLP-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Google--Colab-green)](#) [![](https://img.shields.io/badge/-student-blue)](#)
