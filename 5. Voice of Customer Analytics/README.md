@@ -20,3 +20,6 @@ This project focus on Wongnai review for CQK Hotpot using Natural Language Proce
 
 # Word Cloud
 ![img](CQK_WordCloud.jpg) 
+
+# Business Recommendation
+Most topic review about Mala soup hotpot the main CQK selling point, the restaurant should recommend protein and vegetable that customer can enjoy with Mala soup, promotion set menu with Mala soup, and promote pork bone soup or pumkin soup for the second soup in hotpot.
